@@ -63,3 +63,5 @@ This Excel file provides the raw data and serves as the backbone for Python and 
 5. Check the "f_poetic_long" column for any poetic or lyrical descriptions associated with the Faerunian date.
 
 Enjoy your exploration of the Faerunian calendar system using this Excel file!
+
+[![License: ODbL](https://img.shields.io/badge/License-ODbL-brightgreen.svg)](https://opendatacommons.org/licenses/odbl/)
